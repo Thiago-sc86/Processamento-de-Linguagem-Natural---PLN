@@ -1,0 +1,20 @@
+## 📘 Aula 02 - Python e Bibliotecas para PLN
+
+**Arquivo:** `Aula02_SintaxePython.ipynb`
+
+### ✅ Etapas abordadas:
+
+- **Introdução à sintaxe Python**  
+  Variáveis, tipos de dados, operadores.
+
+- **Listas, tuplas e dicionários**  
+  Como armazenar e acessar dados.
+
+- **Estruturas de controle**  
+  `if`, `for`, `while`.
+
+- **Funções**  
+  Criação e uso de funções em Python.
+
+- **Bibliotecas úteis**  
+  Importação e uso básico de bibliotecas como `numpy` e `pandas`.
